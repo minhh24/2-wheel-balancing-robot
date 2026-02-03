@@ -50,6 +50,9 @@ Dự án này nghiên cứu và chế tạo mô hình xe tự cân bằng hai b�
 * ROS 2 Distribution: Humble Hawksbill.
 * Raspberry Pi Pico SDK (C/C++).
 * Python 3 và các thư viện: `tkinter`, `matplotlib`, `rclpy`.
+  
+### link video demo
+https://www.youtube.com/watch?v=C-vb4eZdHiY
 
 ### Cấu hình Project và Biên dịch Firmware
 Tại thư mục dự án (trên Linux/Ubuntu):
@@ -64,3 +67,5 @@ cmake ..
 
 # Biên dịch
 make
+
+
