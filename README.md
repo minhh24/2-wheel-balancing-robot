@@ -51,7 +51,7 @@ Dự án này nghiên cứu và chế tạo mô hình xe tự cân bằng hai b�
 * Raspberry Pi Pico SDK (C/C++).
 * Python 3 và các thư viện: `tkinter`, `matplotlib`, `rclpy`.
 
-### 1. Cấu hình Project và Biên dịch Firmware
+### Cấu hình Project và Biên dịch Firmware
 Tại thư mục dự án (trên Linux/Ubuntu):
 
 ```bash
