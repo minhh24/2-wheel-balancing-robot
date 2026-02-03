@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/pc34/pico-project-generator/project/LQR_Robot/build/CMakeFiles/picotoolBuild"
+		},
+		{
+			"file" : "/home/pc34/pico-project-generator/project/LQR_Robot/build/CMakeFiles/picotoolBuild.rule"
+		},
+		{
+			"file" : "/home/pc34/pico-project-generator/project/LQR_Robot/build/CMakeFiles/picotoolBuild-complete.rule"
+		},
+		{
+			"file" : "/home/pc34/pico-project-generator/project/LQR_Robot/build/picotool/src/picotoolBuild-stamp/picotoolBuild-build.rule"
+		},
+		{
+			"file" : "/home/pc34/pico-project-generator/project/LQR_Robot/build/picotool/src/picotoolBuild-stamp/picotoolBuild-configure.rule"
+		},
+		{
+			"file" : "/home/pc34/pico-project-generator/project/LQR_Robot/build/picotool/src/picotoolBuild-stamp/picotoolBuild-download.rule"
+		},
+		{
+			"file" : "/home/pc34/pico-project-generator/project/LQR_Robot/build/picotool/src/picotoolBuild-stamp/picotoolBuild-install.rule"
+		},
+		{
+			"file" : "/home/pc34/pico-project-generator/project/LQR_Robot/build/picotool/src/picotoolBuild-stamp/picotoolBuild-mkdir.rule"
+		},
+		{
+			"file" : "/home/pc34/pico-project-generator/project/LQR_Robot/build/picotool/src/picotoolBuild-stamp/picotoolBuild-patch.rule"
+		},
+		{
+			"file" : "/home/pc34/pico-project-generator/project/LQR_Robot/build/picotool/src/picotoolBuild-stamp/picotoolBuild-test.rule"
+		},
+		{
+			"file" : "/home/pc34/pico-project-generator/project/LQR_Robot/build/picotool/src/picotoolBuild-stamp/picotoolBuild-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"picotoolBuild"
+		],
+		"name" : "picotoolBuild"
+	}
+}

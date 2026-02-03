@@ -1,0 +1,14 @@
+# Target labels
+ picotoolBuild
+# Source files and their labels
+/home/pc34/pico-project-generator/project/LQR_Robot/build/CMakeFiles/picotoolBuild
+/home/pc34/pico-project-generator/project/LQR_Robot/build/CMakeFiles/picotoolBuild.rule
+/home/pc34/pico-project-generator/project/LQR_Robot/build/CMakeFiles/picotoolBuild-complete.rule
+/home/pc34/pico-project-generator/project/LQR_Robot/build/picotool/src/picotoolBuild-stamp/picotoolBuild-build.rule
+/home/pc34/pico-project-generator/project/LQR_Robot/build/picotool/src/picotoolBuild-stamp/picotoolBuild-configure.rule
+/home/pc34/pico-project-generator/project/LQR_Robot/build/picotool/src/picotoolBuild-stamp/picotoolBuild-download.rule
+/home/pc34/pico-project-generator/project/LQR_Robot/build/picotool/src/picotoolBuild-stamp/picotoolBuild-install.rule
+/home/pc34/pico-project-generator/project/LQR_Robot/build/picotool/src/picotoolBuild-stamp/picotoolBuild-mkdir.rule
+/home/pc34/pico-project-generator/project/LQR_Robot/build/picotool/src/picotoolBuild-stamp/picotoolBuild-patch.rule
+/home/pc34/pico-project-generator/project/LQR_Robot/build/picotool/src/picotoolBuild-stamp/picotoolBuild-test.rule
+/home/pc34/pico-project-generator/project/LQR_Robot/build/picotool/src/picotoolBuild-stamp/picotoolBuild-update.rule
