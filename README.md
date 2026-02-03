@@ -54,6 +54,9 @@ Dự án này nghiên cứu và chế tạo mô hình xe tự cân bằng hai b�
 ### link video demo
 https://www.youtube.com/watch?v=C-vb4eZdHiY
 
+### link báo cáo
+https://docs.google.com/document/d/1mRr-ywIPSkjOn6AicDiHpQl1ZKSy9qr0/edit?usp=sharing&ouid=102604522043199603151&rtpof=true&sd=true
+
 ### Cấu hình Project và Biên dịch Firmware
 Tại thư mục dự án (trên Linux/Ubuntu):
 
