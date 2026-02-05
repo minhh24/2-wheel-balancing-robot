@@ -1,4 +1,4 @@
-# THIẾT KẾ XE CÂN BẰNG HAI BÁNH BẰNG THUẬT TOÁN LQR VÀ MICRO-ROS kết hợp ROS2
+# THIẾT KẾ XE CÂN BẰNG HAI BÁNH BẰNG THUẬT TOÁN LQR VÀ MICRO-ROS KẾT HỢP ROS2
 
 Dự án này nghiên cứu và chế tạo mô hình xe tự cân bằng hai bánh sử dụng động cơ bước (Stepper Motor), tích hợp thuật toán điều khiển tối ưu LQR và bộ lọc Kalman trên vi điều khiển Raspberry Pi Pico. Hệ thống sử dụng kiến trúc phân tán với micro-ROS trên robot và ROS 2 trên máy tính để giám sát và tinh chỉnh tham số thời gian thực.
 
